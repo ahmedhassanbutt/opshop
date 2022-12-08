@@ -1,0 +1,24 @@
+footer {
+  background-color: coral;
+  padding: 70px 0;
+  color: #fff;
+}
+footer h1 {
+  margin-bottom: 20px;
+  color: white;
+  font-weight: 700;
+  font-style: italic;
+}
+footer p {
+  font-size: 14px;
+  font-weight: 300;
+  opacity: 0.5;
+  margin-bottom: 20px;
+}
+footer h2 {
+  margin-bottom: 20px;
+}
+footer li {
+  margin-bottom: 10px;
+  opacity: 0.5;
+}
